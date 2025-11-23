@@ -13,3 +13,10 @@ public class Dynamicpattern {
 	}
 
 }
+output:
+666666
+55555
+4444
+333
+22
+1
